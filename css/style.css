@@ -9,6 +9,9 @@ h1{
     color: #fff;
     background-color:  #281B2D;
 }
+img{
+    margin:20px 0;
+}
 .headings{
     font-size: 48px;
     color: #FCD801;
@@ -25,4 +28,5 @@ border-bottom:   #00C54C;
 }
 ol,ul{
     text-align: left;
+    list-style: inside;
 }
